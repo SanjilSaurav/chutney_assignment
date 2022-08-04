@@ -8,5 +8,7 @@ Each face card has a fixed value of ten, but the ace can be counted as one or el
 
 ## How to use this on your system
 First of all, download the source code.
+
 Then, open the code with any of the python ide.
+
 Then, run the code.
